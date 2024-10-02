@@ -14,7 +14,6 @@ const page = async () => {
     cache: "no-store",
   });
   const shoes = await res.json();
-  throw new Error("error from home page")
 
   return (
     <div className=" w-full lg:w-[85%] mx-auto p-8 grid grid-cols-1 lg:grid-cols-3 gap-4 justify-items-center ">

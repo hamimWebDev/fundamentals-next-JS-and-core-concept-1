@@ -1,0 +1,105 @@
+{
+  "shoes": [
+    {
+        "id": 1,
+        "name": "Air Max 270",
+        "brand": "Nike",
+        "size": 10,
+        "color": "Black/White",
+        "price": 155,
+        "inStock": true,
+        "description": "The Air Max 270 features Nike’s biggest heel air unit yet, offering a smooth ride and stylish design."
+    },
+    {
+        "id": 2,
+        "name": "UltraBoost 21",
+        "brand": "Adidas",
+        "size": 9,
+        "color": "Core Black",
+        "price": 180,
+        "inStock": true,
+        "description": "A running shoe that merges performance with style, featuring Adidas’ energy-returning Boost technology."
+    },
+    {
+        "id": 3,
+        "name": "Cortez",
+        "brand": "Nike",
+        "size": 11,
+        "color": "White/Red",
+        "price": 75,
+        "inStock": false,
+        "description": "A timeless classic, the Nike Cortez combines a sleek design with comfort for everyday wear."
+    },
+    {
+        "id": 4,
+        "name": "New Balance 990v5",
+        "brand": "New Balance",
+        "size": 10.5,
+        "color": "Grey",
+        "price": 185,
+        "inStock": true,
+        "description": "This American-made sneaker offers superior cushioning and stability for all-day comfort."
+    },
+    {
+        "id": 5,
+        "name": "Gel-Kayano 28",
+        "brand": "ASICS",
+        "size": 9.5,
+        "color": "Black/Gold",
+        "price": 160,
+        "inStock": true,
+        "description": "A high-performance running shoe with enhanced support and shock absorption, ideal for long-distance runners."
+    },
+    {
+        "id": 6,
+        "name": "Hirako",
+        "brand": "On",
+        "size": 12,
+        "color": "Cloud White",
+        "price": 140,
+        "inStock": false,
+        "description": "Innovative Swiss-engineered running shoes, offering a lightweight, cushioned ride."
+    },
+    {
+        "id": 7,
+        "name": "Converse Chuck Taylor",
+        "brand": "Converse",
+        "size": 8,
+        "color": "Black",
+        "price": 60,
+        "inStock": true,
+        "description": "The iconic Chuck Taylor sneaker, known for its timeless design and unmatched versatility."
+    },
+    {
+        "id": 8,
+        "name": "Vans Old Skool",
+        "brand": "Vans",
+        "size": 10,
+        "color": "Checkerboard",
+        "price": 70,
+        "inStock": true,
+        "description": "Skate-ready and street-style approved, the Old Skool offers durable construction with signature Vans flair."
+    },
+    {
+        "id": 9,
+        "name": "Adizero Adios Pro",
+        "brand": "Adidas",
+        "size": 11,
+        "color": "Blue/White",
+        "price": 200,
+        "inStock": true,
+        "description": "A lightweight, marathon-ready racing shoe designed for top performance with cutting-edge technology."
+    },
+    {
+        "id": 10,
+        "name": "Puma RS-X",
+        "brand": "Puma",
+        "size": 10.5,
+        "color": "Red/Black",
+        "price": 110,
+        "inStock": true,
+        "description": "The Puma RS-X offers bold style with retro-inspired design elements and supreme comfort."
+    }
+]
+
+}
